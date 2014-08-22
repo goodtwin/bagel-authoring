@@ -1,6 +1,6 @@
 {
   "name": "bagel-authoring",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "title": "Bagel UI",
   "description": "Delicious UI Framework",
   "homepage": "http://goodtwin.co",
@@ -14,9 +14,9 @@
     "url": "git://github.com/goodtwin/bagel-authoring.git"
   },
   "dependencies": {
-    "bagel-functions": "git://github.com/goodtwin/bagel-functions.git#v0.1.5",
-    "bagel-layout": "git://github.com/goodtwin/bagel-layout.git#v0.1.5",
-    "bagel-abstractions": "git://github.com/goodtwin/bagel-abstractions.git#v0.1.4"
+    "bagel-functions": "git://github.com/goodtwin/bagel-functions.git#v0.1.6",
+    "bagel-layout": "git://github.com/goodtwin/bagel-layout.git#v0.1.6",
+    "bagel-abstractions": "git://github.com/goodtwin/bagel-abstractions.git#v0.1.5"
   },
   "devDependencies": {
     "grunt": "~0.4.4",
