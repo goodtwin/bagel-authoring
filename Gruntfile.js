@@ -55,7 +55,7 @@ module.exports = function (grunt) {
           'dist/docs/': './*.css'
         },
         options: {
-          css_include: '/../../init.css'
+          css_include: '../../init.css'
         }
       }
     }

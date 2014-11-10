@@ -1,6 +1,6 @@
 {
   "name": "bagel-authoring",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "title": "Bagel UI",
   "description": "Delicious UI Framework",
   "homepage": "http://goodtwin.co",
@@ -14,9 +14,9 @@
     "url": "git://github.com/goodtwin/bagel-authoring.git"
   },
   "dependencies": {
-    "bagel-functions": "git://github.com/goodtwin/bagel-functions.git#v0.2.1",
-    "bagel-layout": "git://github.com/goodtwin/bagel-layout.git#v0.2.2",
-    "bagel-abstractions": "git://github.com/goodtwin/bagel-abstractions.git#v0.2.1"
+    "bagel-functions": "git://github.com/goodtwin/bagel-functions.git#v0.2.2",
+    "bagel-layout": "git://github.com/goodtwin/bagel-layout.git#v0.2.3",
+    "bagel-abstractions": "git://github.com/goodtwin/bagel-abstractions.git#v0.2.2"
   },
   "devDependencies": {
     "grunt": "~0.4.4",
@@ -26,6 +26,6 @@
     "grunt-myth": "~0.1.1",
     "load-grunt-tasks": "~0.4.0",
     "grunt-shared-config": "~0.3.7",
-    "grunt-dss": "git://github.com/goodtwin/grunt-dss.git#fb4d5b8dfc3ea389e1934125d3319a165c4453b7"
+    "grunt-dss": "git://github.com/goodtwin/grunt-dss.git#25ddcfd2635b77ab25f188bf78a6c2f4a4c07b6d"
   }
 }
